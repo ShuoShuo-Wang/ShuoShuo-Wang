@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShuoShuo-Wang
 - 👀 I’m interested in Statistics, Data Analytics, Machine Learning
-- 🌱 I’m currently learning Azure cloud platform, AZ Machine Learning, and preparing AZ data Engineer, AZ data scientist exams
+- 🌱 I’m currently learning Microsoft Azure, AZ Machine Learning, and preparing AZ data Engineer, AZ data scientist exams
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me sswang131@outlook.com
 
